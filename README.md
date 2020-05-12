@@ -1,2 +1,2 @@
 # LV1_jamb
-Jamb igrica
+Jamb igrica za LV1
